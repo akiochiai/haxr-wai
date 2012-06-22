@@ -1,4 +1,4 @@
 haxr-wai
 ========
 
-WAI Interface for HaXR
+WAI adapter for HaXR

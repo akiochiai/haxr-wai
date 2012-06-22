@@ -9,7 +9,7 @@
 Version:             0.1
 
 -- A short (one-line) description of the package.
--- Synopsis:            
+Synopsis:            WAI adapter for HaXR
 
 -- A longer description of the package.
 -- Description:         
